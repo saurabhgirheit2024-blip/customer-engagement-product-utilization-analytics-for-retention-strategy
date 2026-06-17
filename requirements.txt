@@ -1,7 +1,9 @@
 streamlit
-pandas
-numpy
+
 altair
-scikit-learn
 imbalanced-learn
+matplotlib
+numpy
+pandas
+scikit-learn
 xgboost
