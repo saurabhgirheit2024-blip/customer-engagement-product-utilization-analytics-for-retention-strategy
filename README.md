@@ -71,4 +71,4 @@ To launch the interactive dashboard on your local Windows system, execute the fo
 python -m streamlit run app.py
 ```
 Streamlit will initialize, load and validate the custom data from `data/Churn_Modelling.csv`, train all ML models, run K-Means clustering, and open the active web application at:
-👉 **[http://localhost:8501]([(https://m6xt7iwx5n9d4suwhutsg8.streamlit.app/])**
+👉 **https://m6xt7iwx5n9d4suwhutsg8.streamlit.app/**
